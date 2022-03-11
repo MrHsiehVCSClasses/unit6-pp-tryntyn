@@ -6,9 +6,9 @@ class Main {
     "Uncomment the lines in Main.java to test out your blackjack/yahtzee games.\n"+
     "Remove this line at your leisure.");
 
-    // uncomment to play blackjack
-    //Blackjack blackjack = new Blackjack();
-    //blackjack.play();
+    //uncomment to play blackjack
+    Blackjack blackjack = new Blackjack();
+    blackjack.play();
     
     // uncomment to play yahtzee
     //Yahtzee yahtzee = new Yahtzee();
